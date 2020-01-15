@@ -3,10 +3,14 @@ new_page_extension: mdx
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
-upload_dir: /src/pages
+sections:
+- type: document
+  path: src/pages/patterns/search-pattern/index.mdx
+  label: Search pattern
+  match: "**/*"
+upload_dir: src/pages
 public_path: "/uploads"
-front_matter_path: /images
+front_matter_path: "/images"
 use_front_matter_path: false
 file_template: ":filename:"
 build:
