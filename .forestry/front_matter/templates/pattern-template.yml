@@ -8,3 +8,9 @@ fields:
 - type: text
   name: description
   label: description
+- name: anchorlink
+  type: text
+  config:
+    required: false
+  label: AnchorLink
+  description: Add an anchor link
