@@ -7,7 +7,6 @@ sections:
 - type: document
   path: src/pages/patterns/search-pattern/index.mdx
   label: Search pattern
-  match: "**/*"
 upload_dir: src/pages
 public_path: "/uploads"
 front_matter_path: "/images"
