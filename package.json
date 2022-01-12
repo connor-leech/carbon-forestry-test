@@ -43,7 +43,7 @@
     "gatsby-theme-carbon": "^1.19.0",
     "html-loader": "^0.5.5",
     "lodash": "^4.17.15",
-    "markdown-it": "^9.0.1",
+    "markdown-it": "^12.3.2",
     "markdown-loader": "^5.0.0",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
